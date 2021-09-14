@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: cd04b05071d9fc44e89ac94d92992c42
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Solbacak
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 631
+      y: 1611
+      width: 151
+      height: 391
+    spriteID: 219fb6a24ddf5514884540b69ed4ea20
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -875, y: 665}
+  - name: "Sa\u011Fbacaky\xFCr\xFCme"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 465
+      y: 1611
+      width: 158
+      height: 419
+    spriteID: 68bfe5fb37778aa4fafbb49957e086ee
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -800, y: 686}
+  - name: "Sa\u011Fbacakduru\u015F"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 790
+      y: 1611
+      width: 138
+      height: 423
+    spriteID: 304a5889426fc6746b226a5364e3f700
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -252, y: 691}
+  - name: Kafa
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 808
+      y: 822
+      width: 176
+      height: 230
+    spriteID: 4152737f9dcc9df47a989c22a814fc6e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 71, y: -222}
+  - name: El
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 713
+      y: 1441
+      width: 121
+      height: 84
+    spriteID: 677959838c251f44a8ebe38b19af9213
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -235, y: 882}
+  - name: "Sa\u011Fkol"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 465
+      y: 822
+      width: 335
+      height: 311
+    spriteID: e3a010468beffe44a9416f0459dd263e
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -282, y: 269}
+  - name: Solkol
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1570
+      width: 342
+      height: 312
+    spriteID: bd4974cc4d61fdc4eae39668ef0729ef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1128, y: 1008}
+  - name: "G\xF6\u011F\xFCs"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 465
+      y: 1309
+      width: 240
+      height: 294
+    spriteID: 4863dfc73566f004ea8dc3d53695197c
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 94, y: 629}
+  - name: "Par\xE7a"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 713
+      y: 1309
+      width: 127
+      height: 124
+    spriteID: 315d758732453b44d84c9d83c10ee161
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 541, y: 604}
+  - name: Etek
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 822
+      width: 453
+      height: 360
+    spriteID: c96dc6f23f1a7c043ae354d25e3f0b51
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -44, y: -157}
+  - name: Pelerin
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 1190
+      width: 354
+      height: 372
+    spriteID: c73638493078fe04ab2df363717bf672
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -290, y: 190}
+  - name: "K\u0131n"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 465
+      y: 1141
+      width: 450
+      height: 160
+    spriteID: 02dacad4c192b404a9cea37238dc17cc
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 178, y: 829}
+  - name: "Ha\u015Fmetli"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 884
+      height: 810
+    spriteID: 0b11b8ea03b72344097e52e2c4db745d
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -131, y: -151}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 1024
+  importedTextureHeight: 2048
+  documentSize: {x: 1890, y: 1417}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 2048
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Solbacak
+    spriteName: Solbacak
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 219fb6a24ddf5514884540b69ed4ea20
+    layerID: 4
+    mosaicPosition: {x: 631, y: 1611}
+  - name: "Sa\u011Fbacaky\xFCr\xFCme"
+    spriteName: "Sa\u011Fbacaky\xFCr\xFCme"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 68bfe5fb37778aa4fafbb49957e086ee
+    layerID: 5
+    mosaicPosition: {x: 465, y: 1611}
+  - name: "Sa\u011Fbacakduru\u015F"
+    spriteName: "Sa\u011Fbacakduru\u015F"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 304a5889426fc6746b226a5364e3f700
+    layerID: 6
+    mosaicPosition: {x: 790, y: 1611}
+  - name: Kafa
+    spriteName: Kafa
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4152737f9dcc9df47a989c22a814fc6e
+    layerID: 7
+    mosaicPosition: {x: 808, y: 822}
+  - name: El
+    spriteName: El
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 677959838c251f44a8ebe38b19af9213
+    layerID: 15
+    mosaicPosition: {x: 713, y: 1441}
+  - name: "Sa\u011Fkol"
+    spriteName: "Sa\u011Fkol"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e3a010468beffe44a9416f0459dd263e
+    layerID: 8
+    mosaicPosition: {x: 465, y: 822}
+  - name: Solkol
+    spriteName: Solkol
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bd4974cc4d61fdc4eae39668ef0729ef
+    layerID: 9
+    mosaicPosition: {x: 4, y: 1570}
+  - name: "G\xF6\u011F\xFCs"
+    spriteName: "G\xF6\u011F\xFCs"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 4863dfc73566f004ea8dc3d53695197c
+    layerID: 10
+    mosaicPosition: {x: 465, y: 1309}
+  - name: "Par\xE7a"
+    spriteName: "Par\xE7a"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 315d758732453b44d84c9d83c10ee161
+    layerID: 11
+    mosaicPosition: {x: 713, y: 1309}
+  - name: Etek
+    spriteName: Etek
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c96dc6f23f1a7c043ae354d25e3f0b51
+    layerID: 12
+    mosaicPosition: {x: 4, y: 822}
+  - name: Pelerin
+    spriteName: Pelerin
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c73638493078fe04ab2df363717bf672
+    layerID: 13
+    mosaicPosition: {x: 4, y: 1190}
+  - name: "K\u0131n"
+    spriteName: "K\u0131n"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 02dacad4c192b404a9cea37238dc17cc
+    layerID: 14
+    mosaicPosition: {x: 465, y: 1141}
+  - name: "Ha\u015Fmetli"
+    spriteName: "Ha\u015Fmetli"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0b11b8ea03b72344097e52e2c4db745d
+    layerID: 2
+    mosaicPosition: {x: 4, y: 4}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: "Karakter_Anatasar\u0131m Texture"
+  prefabAssetName: "Karakter_Anatasar\u0131m Prefab"
+  spriteLibAssetName: "Karakter_Anatasar\u0131m Sprite Lib"
+  secondarySpriteTextures: []
