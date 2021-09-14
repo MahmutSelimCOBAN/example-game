@@ -942,6 +942,101 @@ Tilemap:
     e31: 0
     e32: 0
     e33: 1
+--- !u!1001 &326279166
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.2
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7.5541015
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -3.075162
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -6053184777192027935, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 3.0128455
+      objectReference: {fileID: 0}
+    - target: {fileID: -6053184777192027935, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.8788347
+      objectReference: {fileID: 0}
+    - target: {fileID: 3813372038665569610, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_Name
+      value: kafa(kemik
+      objectReference: {fileID: 0}
+    - target: {fileID: 5142757308351213280, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_Name
+      value: "Karakter_Anatasar\u0131m"
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 7093658238610228979, guid: f0a89b677ad6ba843a41caae52a75dc9,
+    type: 3}
 --- !u!1 &390188746
 GameObject:
   m_ObjectHideFlags: 0
@@ -984,7 +1079,7 @@ Transform:
   m_Children:
   - {fileID: 64643374}
   m_Father: {fileID: 0}
-  m_RootOrder: 1
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &519420028
 GameObject:
@@ -1148,5 +1243,5 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 2
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
