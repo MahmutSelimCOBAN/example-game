@@ -949,6 +949,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -7235976010716392274, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 14
+      objectReference: {fileID: 0}
     - target: {fileID: -6118315243597196293, guid: f0a89b677ad6ba843a41caae52a75dc9,
         type: 3}
       propertyPath: m_RootOrder
@@ -1028,6 +1033,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: kafa(kemik
+      objectReference: {fileID: 0}
+    - target: {fileID: 4599196050799900000, guid: f0a89b677ad6ba843a41caae52a75dc9,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 15
       objectReference: {fileID: 0}
     - target: {fileID: 5142757308351213280, guid: f0a89b677ad6ba843a41caae52a75dc9,
         type: 3}
